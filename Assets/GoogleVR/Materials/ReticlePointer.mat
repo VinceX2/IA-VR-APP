@@ -60,14 +60,14 @@ Material:
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
-    - _DistanceInMeters: 2
+    - _DistanceInMeters: 0
     - _DstBlend: 0
     - _Glossiness: 0.5
-    - _InnerDiameter: 1.5
+    - _InnerDiameter: 1
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
-    - _OuterDiameter: 2
+    - _OuterDiameter: 0.39
     - _Parallax: 0.02
     - _Radius: 0
     - _SrcBlend: 1
